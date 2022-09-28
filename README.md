@@ -22,7 +22,7 @@ mongoose, nodemon, insomnia for testing the routes.
 The following images will depict the functionality of the APIs in the applicaton
 
 ### All Users Page
-![The image displays the all users that have been created in from a database](./assets/allUsers.jpg)
+![The image displays the all users that have been created in from a database](./Assets/allUsers.jpg)
 
 ### Users and Firends
 ![The image displays the all users with their friends embedded in database](./assets/UserwithFriends.jpg)
