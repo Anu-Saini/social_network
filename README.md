@@ -25,13 +25,13 @@ The following images will depict the functionality of the APIs in the applicaton
 ![The image displays the all users that have been created in from a database](./Assets/allUsers.jpg)
 
 ### Users and Firends
-![The image displays the all users with their friends embedded in database](./assets/UserwithFriends.jpg)
+![The image displays the all users with their friends embedded in database](./Assets/UserwithFriends.jpg)
 
 ### All thoughts page
-![The image displays the all users thoughts in from a database](./assets/allThoughts.jpg)
+![The image displays the all users thoughts in from a database](./Assets/allThoughts.jpg)
 
 ### All thoughts with reaction page
-![The image displays the all users thoughts and the reaction of their friends](./assets/thoughtwithReaction.jpg)
+![The image displays the all users thoughts and the reaction of their friends](./Assets/thoughtwithReaction.jpg)
 
 ## Application  
 Since the application is a back end routes for creating database, thus the testing on the routes have been done on localhost through insomnia.
